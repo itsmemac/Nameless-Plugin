@@ -1,3 +1,5 @@
 error:
-  website-username-not-exist: <red>Ne postoji korisnik pod ovim imenom.
-  discord-username-not-exist: <red>Ne postoji korisnik pod ovim Diskord imenom.
+  website-username-not-exist: <red>Nijedan korisnik sajta ne postoji sa ovim 
+    korisničkim imenom.
+  discord-username-not-exist: <red>Nijedan korisnik sajta ne postoji sa ovim 
+    Discord korisničkim imenom.
